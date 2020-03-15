@@ -4,7 +4,7 @@ Project "Responsive Website" to properly utilize Bootstrap 4 and
 CSS Responsive web design principles to design a fictional app 
 portfolio that is usable from mobile to laptop screens. 
 
-It can be viewed at https://github.com/kschang77/Code-Refactor
+It can be viewed at https://github.com/kschang77/Responsive-Website
 
 ## Prerequisites
 
@@ -20,11 +20,13 @@ No installation required
 
 [CSS](https://www.w3.org/Style/CSS/specs.en.html)
 
+[Bootstrap 4](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
 # Deployed Link
 
 TBA
 
-## Authors
+## Author
 
 * **Kasey Chang** 
 
