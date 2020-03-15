@@ -1,0 +1,131 @@
+/** import font **/
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+/**
+ * Media Query Demo (note the commented rules)
+ **/
+
+ 
+
+* {
+  box-sizing: border-box;
+}
+
+.serif-font {
+    font-family: 'Playfair Display',Georgia, "Times New Roman", Times, serif;
+}
+
+.xs-font {
+  font-size: 10px;
+}
+
+.text-teal {
+  color: teal;
+}
+
+.teal-top-border {
+  border-top-width: 10px;
+  border-top-color: teal;
+  border-top-style: solid;
+}
+
+.container {
+  width: 750px !important;
+}
+
+a {
+  font-size: 14px;
+}
+
+a:link {
+  color: #000000;
+}
+
+.nav-link {
+  color: #000000;
+}
+
+/*
+  The background color will be #ccc
+  at browser widths above 768px
+*/
+body {
+  /* Typography */
+  font-size: 12px;
+  line-height: 27px;
+  /* Visual */
+  background-color: #ccc;
+}
+
+.bg-teal {
+  background-color: teal;
+}
+
+.border-5 {
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+}
+
+.overlay-position {
+  position: relative;
+  width:50%;
+  max-width:300px;
+}
+
+.text-overlay span {
+  position:absolute;
+  top:80%;
+  left:43%;
+  width: 85%;
+  transform:translate(-50%,-20%);
+  color:#FFF;
+  font-size: 20px;
+  padding: 15px;
+  background-color: teal;
+  text-align: center;
+  
+}
+
+ 
+    @media screen and (max-width: 991px) {
+    .container {
+        width: 750px !important;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .container {
+         width: 550px !important;
+    }
+    .col-bg-teal {
+    background-color: teal;
+    padding: 0px;
+    margin: 0px;
+    }
+}
+
+
+
+
+/*
+  These rules take effect when the browser's width
+  is either 768px or less.
+@media screen and (max-width: 767.98px) {
+ The body's bg color will be #333 
+ The wrapper's width will be 550px 
+.1col-bg-teal {
+  background-color: teal;
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  width: 550px;
+}
+
+
+}
+*/
+
