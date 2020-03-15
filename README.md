@@ -24,11 +24,11 @@ No installation required
 
 # Deployed Link
 
-TBA
+https://kschang77.github.io/Responsive-Website/
 
 ## Author
 
-* **Kasey Chang** 
+**Kasey Chang** 
 
 - [Link to Github](https://github.com/kschang77)
 - [Link to LinkedIn](https://www.linkedin.com/in/kasey-chang)
