@@ -4,7 +4,7 @@ Project "Responsive Website" to properly utilize Bootstrap 4 and
 CSS Responsive web design principles to design a fictional app 
 portfolio that is usable from mobile to laptop screens. 
 
-It can be viewed at https://github.com/kschang77/Responsive-Website
+Project Repo: https://github.com/kschang77/Responsive-Website
 
 ## Prerequisites
 
