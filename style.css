@@ -43,6 +43,10 @@ a:link {
   color: #000000;
 }
 
+.subhead {
+  font-size: 1.25rem;
+}
+
 /*
   The background color will be #ccc
   at browser widths above 768px
